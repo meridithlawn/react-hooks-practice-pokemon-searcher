@@ -1340,6 +1340,42 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "lucas",
+      "hp": "asdf",
+      "sprites": {
+        "front": "asdf",
+        "back": "asdf"
+      },
+      "id": 151
+    },
+    {
+      "name": "d",
+      "hp": "",
+      "sprites": {
+        "front": "",
+        "back": ""
+      },
+      "id": 152
+    },
+    {
+      "name": "d",
+      "hp": "",
+      "sprites": {
+        "front": "",
+        "back": ""
+      },
+      "id": 153
+    },
+    {
+      "name": "f",
+      "hp": "",
+      "sprites": {
+        "front": "",
+        "back": ""
+      },
+      "id": 154
     }
   ]
 }
